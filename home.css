@@ -1,19 +1,19 @@
 body {
-    font-family: Arial;
     margin: 0;
+    font-family: Arial;
     text-align: center;
-    background-color: #f0f8ff;
+    background-color: #f4f6f9;
 }
 
 header {
-    background-color: #0077b6;
+    background-color: #002147;
     color: white;
     padding: 20px;
 }
 
 nav a {
     color: white;
-    margin: 10px;
+    margin: 15px;
     text-decoration: none;
     font-weight: bold;
 }
@@ -23,11 +23,23 @@ nav a:hover {
 }
 
 section {
-    padding: 40px;
+    padding: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #004aad;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #003080;
 }
 
 footer {
-    background-color: #0077b6;
+    background-color: #002147;
     color: white;
     padding: 10px;
 }

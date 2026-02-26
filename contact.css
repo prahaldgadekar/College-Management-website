@@ -1,0 +1,32 @@
+body {
+    font-family: Tahoma;
+    margin: 0;
+    text-align: center;
+    background-color: #e6ffe6;
+}
+
+header {
+    background-color: #28a745;
+    color: white;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: yellow;
+}
+
+section {
+    padding: 40px;
+}
+
+footer {
+    background-color: #28a745;
+    color: white;
+    padding: 10px;
+}
